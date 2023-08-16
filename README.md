@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/rxrld" target="blank"><img src="https://img.shields.io/twitter/follow/rxrld?logo=twitter&style=for-the-badge" alt="rxrld" /></a> </p>
 
-- 🔭 I’m currently working on [BokyApp senior project](Stay tuned !🔥)
+<h5>🔭 I’m currently working on [BokyApp senior project](Stay tuned !🔥)</h5> 
 
-- 🌱 I’m currently Mastering **React | React Native | ASP.NET | Express JS**
+<h5>🌱 I’m currently Mastering **React | React Native | ASP.NET | Express JS**</h5>
 
-- 📫 How to reach me **RJoufii@outlook.com**
+<h5>📫 How to reach me **RJoufii@outlook.com** </h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
