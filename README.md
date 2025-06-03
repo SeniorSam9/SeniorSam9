@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm SeniorSam</h1>
-<h3 align="center">A passionate backend Developer ⚡💻, I said I'm not interested in frontend development and found myself lying! ¯\_(ツ)_/¯</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seniorsam9&label=Profile%20views&color=0e75b6&style=flat" alt="seniorsam9" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rxrld" target="blank"><img src="https://img.shields.io/twitter/follow/rxrld?logo=twitter&style=for-the-badge" alt="rxrld" /></a> </p>
-
-<h5>🔭 I’m currently working on [BokyApp senior project](Stay tuned !🔥)</h5> 
 
 <h5>🌱 I’m currently Mastering **React | React Native | ASP.NET | Express JS**</h5>
 
