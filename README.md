@@ -4,13 +4,12 @@
 
 <p align="left"> <a href="https://twitter.com/rxrld" target="blank"><img src="https://img.shields.io/twitter/follow/rxrld?logo=twitter&style=for-the-badge" alt="rxrld" /></a> </p>
 
-<h5>🌱 Mastering **React | React Native | ASP.NET | Express JS**</h5>
+<h3>🌱 Mastering **React | React Native | ASP.NET | Express JS**</h3>
 
-<h5>📫 How to reach me **RJoufii@outlook.com** </h5>
+<h4>📫 How to reach me **RJoufii@outlook.com** </h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rxrld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rxrld" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/r-joufi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r-joufi" height="30" width="40" /></a>
 <a href="https://discord.gg/seniorsam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="seniorsam" height="30" width="40" /></a>
 </p>
