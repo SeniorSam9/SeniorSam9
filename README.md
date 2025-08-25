@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm SeniorSam</h1>
+<h1 align="center">Hi, I'm SeniorSam</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seniorsam9&label=Profile%20views&color=0e75b6&style=flat" alt="seniorsam9" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rxrld" target="blank"><img src="https://img.shields.io/twitter/follow/rxrld?logo=twitter&style=for-the-badge" alt="rxrld" /></a> </p>
 
-<h5>🌱 I’m currently Mastering **React | React Native | ASP.NET | Express JS**</h5>
+<h5>🌱 Mastering **React | React Native | ASP.NET | Express JS**</h5>
 
 <h5>📫 How to reach me **RJoufii@outlook.com** </h5>
 
